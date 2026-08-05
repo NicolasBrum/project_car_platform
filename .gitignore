@@ -1,0 +1,24 @@
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Java / Maven / Gradle
+target/
+.gradle/
+build/
+*.class
+
+# React / Node
+node_modules/
+dist/
+coverage/
+.env
+.env.*
+!.env.example
+
+# Logs and OS
+*.log
+.DS_Store
+Thumbs.db
+
